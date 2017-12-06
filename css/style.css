@@ -1501,7 +1501,7 @@ ul.gallery_agile li {
 }
 /*-- portfolio --*/
 div#portfolio {
-    padding: 5em 0;
+    padding: 0 0 5em 0;
 }
 .w3_agile_portfolio_grid{
     overflow: hidden;
